@@ -1,0 +1,13 @@
+=== Dataset Metrics ===
+
+total_earthquakes: 15969
+real_events: 15932
+synthetic_events: 37
+bootstrap_synthetics: 17
+physics_synthetics: 20
+magnitude_min: 2.0
+magnitude_max: 7.934280811566879
+real_magnitude_max: 6.2
+synthetic_magnitude_min: 6.530616938834539
+date_range: 2003-01-01 00:00:00 to 2025-05-08 13:10:23
+cv_folds: 7

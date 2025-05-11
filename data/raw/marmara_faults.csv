@@ -1,0 +1,5 @@
+segment_id,name,coordinates,strike,dip,rake,length_km,seismogenic_thickness_km
+NAF_Western,North Anatolian Fault (Western Segment),"26.7,40.4;27.2,40.5;27.7,40.7",275,85,180,85,15
+NAF_Central,North Anatolian Fault (Central Marmara),"27.7,40.7;28.3,40.8;28.9,40.9",270,80,175,70,17
+NAF_Eastern,North Anatolian Fault (Eastern Marmara),"28.9,40.9;29.5,40.7;30.0,40.6",265,75,170,65,15
+NAF_Southern,North Anatolian Fault (Southern Branch),"27.5,40.5;28.2,40.4;28.9,40.3;29.5,40.2",260,80,165,120,12
